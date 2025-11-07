@@ -12,7 +12,7 @@ List<string> cat = new List<string>
 {"Научная книга","Научно-популярная книга","Производственно-практическая книга",
 "Учебная книга","Справочная книга","Информационная книга",
 };
-do
+do//цикл с пред условием для работы программы без закрывания
 {
     Console.WriteLine();
     Console.WriteLine("Выберите действие \n 1 - Вывести ФИО главного библиотекаря \n 2 - Вывести название библиотеки \n 3 - Вывод сотрудников библиотеки \n 4 - Установить нового главного билиотекаря \n 5 - Сгенерировать книгу  \n 6 - Добавить сотрудника");
@@ -20,7 +20,7 @@ do
     {
         int c = Convert.ToInt32(Console.ReadLine());
         Console.Clear();
-        switch (c)
+        switch (c)//для каждого числа свой метод
         {
             case 1:
                 deist.GetChiefLibrarian(GlavBib);
@@ -49,7 +49,7 @@ do
                 break ;
         }
 }
-    catch (System.FormatException) { Console.WriteLine("Не число"); }
+    catch (System.FormatException) { Console.Clear(); Console.WriteLine("Не число"); }//если строка пуста или не число
 
 }
 while (count == 0);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Itogovaya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203d9a83b0ab295ee47f539eb5b6943701479581")]
 [assembly: System.Reflection.AssemblyProductAttribute("Itogovaya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Itogovaya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,3 +16,4 @@ C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\Itogovaya\obj\Debu
 C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\Itogovaya\obj\Debug\net8.0\Itogovaya.pdb
 C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\Itogovaya\obj\Debug\net8.0\Itogovaya.genruntimeconfig.cache
 C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\Itogovaya\obj\Debug\net8.0\ref\Itogovaya.dll
+C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\Itogovaya\obj\Debug\net8.0\Itogovaya.sourcelink.json

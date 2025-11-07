@@ -9,3 +9,4 @@ C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\DllLib\obj\Debug\n
 C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\DllLib\obj\Debug\net8.0\refint\DllLib.dll
 C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\DllLib\obj\Debug\net8.0\DllLib.pdb
 C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\DllLib\obj\Debug\net8.0\ref\DllLib.dll
+C:\Users\Дмитрий Сидоров\source\repos\Itogovaya\DllLib\obj\Debug\net8.0\DllLib.sourcelink.json
